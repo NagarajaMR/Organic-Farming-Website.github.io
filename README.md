@@ -15,8 +15,11 @@ The organic farming website has 4 Navigation bars like Home, Our Product, Organi
 
 Home: In the home page I added background image and welcome to agrifarm text in the header section
 and I added navigation bars to every page 
+
 About us: In the about us section visitors will know about agrifarm and next I added images with hover effect to look beautiful
+
 Our Product : in the product list i added some products and if you want to see more products you can click more button here and next I added footer of the website when you click more button it will redirect to our product page  and you can see neem oil for plants and its price and details, Navadhanya seeds, Garlic oil  spray and several products 
 
 Organic Farming:  In this section I added small details of about us and our team members also you can see agricultural scientist and their details and next you see the details of the organic farming  Soil Management ,Biological control of insects ,crop diversity ,natural pesticides and I added some images to look more beautiful to visitors
+
 Contact us : In this section if you have project details you can share with us using the form and I added Email id and phone number of Agrifarm team.
