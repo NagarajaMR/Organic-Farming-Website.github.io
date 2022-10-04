@@ -9,9 +9,10 @@ Organic farming uses fewer pesticides, reduces soil erosion, decreases nitrate 
 
 Anyone who wants organic foods and want to lead healthier life.There is a growing demand in the western world for organic food .Consumers are prepared to pay significant premium for it 
 Organic farming currently accounts for about one percent of agriculture land worldwide.
-So I decided to make website for farmers to help them to increase their farming.
+So I decided to make website for farming Brand AGRIFARM which help  farmers to increase their farming.
 
 The organic farming website has 4 Navigation bars like Home, Our Product, Organic Farming, About us.
+
 Home: In the home page I added background image and welcome to agrifarm text in the header section
 and I added navigation bars to every page 
 About us: In the about us section visitors will know about agrifarm and next I added images with hover effect to look beautiful
